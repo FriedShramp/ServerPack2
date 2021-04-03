@@ -11,6 +11,24 @@
         "turtlemancy:spells/advanced_spells"
       ],
       "completedManualQuests": []
+    },
+    "occultism:dictionary_of_spirits": {
+      "viewedEntries": [
+        "occultism:spirits/books_of_binding",
+        "occultism:pentacles/craft_marid",
+        "occultism:storage/storage_controller",
+        "occultism:storage/stable_wormhole",
+        "occultism:storage/storage_stabilizer"
+      ],
+      "bookmarks": [],
+      "history": [
+        "occultism:storage/storage_stabilizer",
+        "occultism:storage/stable_wormhole",
+        "occultism:storage/storage_controller",
+        "occultism:pentacles/craft_marid",
+        "occultism:spirits/books_of_binding"
+      ],
+      "completedManualQuests": []
     }
   }
 }
