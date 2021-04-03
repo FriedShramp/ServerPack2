@@ -27,7 +27,7 @@
     "mainOutputWeight": 0.05
   },
   "SpawnData": {
-    "canSpawnInWorld": false,
+    "canSpawnInWorld": true,
     "biomeWhitelist": "tag:nether",
     "lightLevel": "NIGHT"
   },

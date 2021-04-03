@@ -28,7 +28,7 @@
     "mainOutputCount": 2
   },
   "SpawnData": {
-    "canSpawnInWorld": false,
+    "canSpawnInWorld": true,
     "biomeWhitelist": "tag:nether",
     "lightLevel": "NIGHT"
   },

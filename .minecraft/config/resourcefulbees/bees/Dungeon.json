@@ -38,7 +38,7 @@
   "SpawnData": {
     "canSpawnInWorld": true,
     "biomeWhitelist": "tag:overworld",
-    "biomeBlacklist": "tag:nether, ocean",
+    "biomeBlacklist": "tag:nether",
     "spawnWeight": 8,
     "minGroupSize": 1,
     "maxGroupSize": 1,
