@@ -1,0 +1,33 @@
+{
+    "flower":"minecraft:wheat",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#f7d52a",
+        "secondaryColor":"#f7d52a",
+        "honeycombColor":"#f7d52a",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "minecraft:wheat"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:seeds",
+        "feedAmount": 4, 
+        "parent1": "Dirt",
+        "parent2": "Water"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

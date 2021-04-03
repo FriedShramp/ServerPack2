@@ -23,7 +23,9 @@
   },
   "CentrifugeData": {
     "hasCentrifugeOutput": true,
-    "mainOutput": "minecraft:glowstone_dust"
+    "mainOutput": "minecraft:porkchop",
+    "secondaryOutput": "minecraft:leather",
+    "secondaryOutputWeight": 0.25
   },
   "SpawnData": {
     "canSpawnInWorld": true,

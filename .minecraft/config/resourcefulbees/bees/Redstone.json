@@ -27,12 +27,14 @@
     "mainOutputCount": 4
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "tag:OVERWORLD",
     "biomeBlacklist": "tag:ocean"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "parent1": "Coal",
+    "parent2": "Blaze"
   },
   "TraitData": {}
 }

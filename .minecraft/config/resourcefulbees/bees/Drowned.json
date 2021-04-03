@@ -1,0 +1,36 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#40917e",
+        "secondaryColor":"#40917e",
+        "honeycombColor":"#40917e",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "minecraft:rotten_flesh",
+        "secondaryOutput": "minecraft:nautilus_shell",
+        "mainOutputWeight": 0.50,
+        "secondaryOutputWeight": 0.005
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:kelp",
+        "feedAmount": 4,
+        "parent1": "Water",
+        "parent2": "Sand"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}
