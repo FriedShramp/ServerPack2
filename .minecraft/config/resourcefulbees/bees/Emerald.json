@@ -25,7 +25,7 @@
     "mainOutput": "minecraft:emerald"
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "TAG:Mountain,Hills"
   },
   "BreedData": {

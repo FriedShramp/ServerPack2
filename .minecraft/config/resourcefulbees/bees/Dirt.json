@@ -1,0 +1,33 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#964B00",
+        "secondaryColor":"#964B00",
+        "honeycombColor":"#964B00",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "minecraft:dirt"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:dirt",
+        "feedAmount": 4,
+        "parent1": "Gravel",
+        "parent2": "Sand"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

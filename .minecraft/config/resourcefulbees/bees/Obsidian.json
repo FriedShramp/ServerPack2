@@ -1,0 +1,34 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#31004f",
+        "secondaryColor":"#31004f",
+        "honeycombColor":"#31004f",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "minecraft:obsidian",
+        "hasFluidOutput": false
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:obsidian",
+        "feedAmount": 1,
+        "parent1": "Cobblestone",
+        "parent2": "Coal"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

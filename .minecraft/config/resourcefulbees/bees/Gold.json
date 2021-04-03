@@ -26,12 +26,14 @@
     "mainOutput": "minecraft:gold_ingot"
   },
   "SpawnData": {
-    "canSpawnInWorld": true,
+    "canSpawnInWorld": false,
     "biomeWhitelist": "tag:OVERWORLD",
     "biomeBlacklist": "tag:ocean"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "parent1": "Piglin",
+    "parent2": "Stone"
   },
   "TraitData": {}
 }

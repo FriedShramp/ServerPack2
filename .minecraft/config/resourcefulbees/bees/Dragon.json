@@ -36,7 +36,9 @@
     "mainOutputWeight": 0.01,
     "bottleOutputWeight": 0.5
   },
-  "SpawnData": {},
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
   "BreedData": {
     "isBreedable": true,
     "parent1": "Wither",
