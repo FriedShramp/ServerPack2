@@ -1,0 +1,116 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 2, 2021 4:25:00 PM
+
+#ceramics:hot_fluids
+
+#forge:gasoline
+- immersivepetroleum:gasoline
+
+#forge:steam
+- transport:flowing_steam
+- transport:steam
+
+#forge:lubricant
+- immersivepetroleum:lubricant
+
+#ceramics:cool_fluids
+
+#forge:crude_oil
+- immersivepetroleum:oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- adpother:polluted_water_flowing
+- adpother:polluted_water_still
+- undergarden:virulent_mix_source
+- undergarden:virulent_mix_flowing
+- boss_tools:fuel
+- boss_tools:fuel_flowing
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- mahoutsukai:murky_still
+- mahoutsukai:murky_flow
+- crossroads:distilled_water
+- crossroads:flowing_distilled_water
+- crossroads:dirty_water
+- crossroads:flowing_dirty_water
+
+#forge:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:milk
+- create:flowing_milk
+- create:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:diesel
+- immersivepetroleum:diesel
+
+#forge:plantoil
+- immersiveengineering:plantoil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- crossroads:molten_iron
+- crossroads:flowing_molten_iron
+- crossroads:molten_gold
+- crossroads:flowing_molten_gold
+- crossroads:molten_copper
+- crossroads:flowing_molten_copper
+- crossroads:molten_tin
+- crossroads:flowing_molten_tin
+- crossroads:molten_copshowium
+- crossroads:flowing_molten_copshowium
+
+#forge:ethanol
+- immersiveengineering:ethanol
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:honey
+- resourcefulbees:honey
+- resourcefulbees:catnip_honey
+- create:flowing_honey
+- create:honey
+- resourcefulbees:rainbow_honey_flowing
+- resourcefulbees:rainbow_honey
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#create:no_infinite_draining
+- astralsorcery:liquid_starlight
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#forge:potion
+- immersiveengineering:potion
+
+#forge:napalm
+- immersivepetroleum:napalm
+
+#immersivepetroleum:burnable_in_flarestack
+- #forge:lubricant
+- #forge:diesel
+- #forge:gasoline
+- #forge:plantoil
+- #forge:creosote
+- #forge:ethanol
