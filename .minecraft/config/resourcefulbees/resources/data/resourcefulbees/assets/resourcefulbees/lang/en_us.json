@@ -50,5 +50,17 @@
  "block.resourcefulbees.wheat_honeycomb_block": "Wheat Honeycomb Block",
  "item.resourcefulbees.wheat_honeycomb": "Wheat Honeycomb",
  "item.resourcefulbees.wheat_bee_spawn_egg": "Wheat Bee Spawn Egg",
- "entity.resourcefulbees.wheat_bee": "Wheat Bee"
+ "entity.resourcefulbees.wheat_bee": "Wheat Bee",
+ "entity.resourcefulbees.snail_bee": "Snail Bee",
+ "item.resourcefulbees.snail_honeycomb": "Snail Honeycomb",
+ "item.resourcefulbees.snail_bee_spawn_egg": "Snail Bee Spawn Egg",
+ "block.resourcefulbees.snail_honeycomb_block": "Snail Honeycomb Block",
+ "entity.resourcefulbees.psimetal_bee": "Psimetal Bee",
+ "item.resourcefulbees.psimetal_honeycomb": "Psimetal Honeycomb",
+ "item.resourcefulbees.psimetal_bee_spawn_egg": "Psimetal Bee Spawn Egg",
+ "block.resourcefulbees.psimetal_honeycomb_block": "PsimetalSnail Honeycomb Block",
+ "entity.resourcefulbees.psidust_bee": "Psidust Bee",
+ "item.resourcefulbees.psidust_honeycomb": "Psidust Honeycomb",
+ "item.resourcefulbees.psidust_bee_spawn_egg": "Psidust Bee Spawn Egg",
+ "block.resourcefulbees.psidust_honeycomb_block": "Psidust Honeycomb Block"
 }
