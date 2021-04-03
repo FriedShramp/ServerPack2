@@ -1,107 +1,84 @@
-[20:59:40] [INFO] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
-[20:59:40] [INFO] SourceFile:41: Loaded 1/1 KubeJS server scripts in 0.005 s
-[20:59:40] [INFO] SourceFile:41: Loaded script server_scripts:script.js in 0.003 s
-[20:59:40] [INFO] Scripts loaded
-[20:59:40] [INFO] Scanning recipes...
-[20:59:45] [INFO] [blocks] Found 552 tags, added 0 objects, removed 0 objects
-[20:59:45] [INFO] [items] Found 1240 tags, added 0 objects, removed 0 objects
-[20:59:45] [INFO] [fluids] Found 24 tags, added 0 objects, removed 0 objects
-[20:59:45] [INFO] [entity_types] Found 43 tags, added 0 objects, removed 0 objects
-[20:59:45] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[20:59:45] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[20:59:45] [INFO] [tile_entity_types] Found 2 tags, added 0 objects, removed 0 objects
-[20:59:45] [WARN] Failed to parse recipe 'environmental:building/wood/wisteria/wisteria_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:wisteria_post'
-[20:59:45] [WARN] Failed to parse recipe environmental:building/wood/wisteria/wisteria_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:wisteria_post'
-[20:59:45] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/platinum_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_block'
-[20:59:45] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/platinum_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_block'
-[20:59:45] [WARN] Failed to parse recipe 'morecreatestuffs:additionrecipes/wyrmroost/platinum_ingot_from_compacting[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
-[20:59:45] [WARN] Failed to parse recipe morecreatestuffs:additionrecipes/wyrmroost/platinum_ingot_from_compacting[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
-[20:59:45] [WARN] Failed to parse recipe 'morecreatestuffs:milling/simpleores/adamantium_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[20:59:45] [WARN] Failed to parse recipe morecreatestuffs:milling/simpleores/adamantium_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[20:59:45] [WARN] Failed to parse recipe 'environmental:building/wood/wisteria/stripped_wisteria_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_wisteria_post'
-[20:59:45] [WARN] Failed to parse recipe environmental:building/wood/wisteria/stripped_wisteria_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_wisteria_post'
-[20:59:45] [WARN] Failed to parse recipe environmental:building/wood/willow/stripped_willow_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_willow_post'
-[20:59:45] [WARN] Failed to parse recipe 'environmental:building/wood/willow/stripped_willow_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_willow_post'
-[20:59:45] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/cheese_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:cheese_ore'
-[20:59:45] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/cheese_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:cheese_ore'
-[20:59:45] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/adamantium_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[20:59:45] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/adamantium_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[20:59:45] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_door[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_8[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_7[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_6[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_4[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_5[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_3[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_2[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_1[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_9[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/platinum_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
-[20:59:46] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/platinum_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
-[20:59:46] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_wood'
-[20:59:46] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_wood'
-[20:59:46] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_stem[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[20:59:46] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/oratchalcum_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_block'
-[20:59:46] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/oratchalcum_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_block'
-[20:59:46] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/geodes/red_geode_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:red_geode_ore'
-[20:59:46] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/geodes/red_geode_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:red_geode_ore'
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_17[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_16[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_19[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_18[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_12[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_13[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_14[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_15[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_10[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_11[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_hyphae[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_23[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_20[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_21[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_22[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
-[20:59:46] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_log'
-[20:59:46] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_log'
-[20:59:46] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/ratlantean_gem_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:ratlantean_gem_ore'
-[20:59:46] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/ratlantean_gem_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:ratlantean_gem_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/oratchalcum_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/oratchalcum_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/adamantium_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/adamantium_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:milling/rats/oratchalcum_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:milling/rats/oratchalcum_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
-[20:59:47] [WARN] Failed to parse recipe environmental:building/wood/cherry/cherry_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:cherry_post'
-[20:59:47] [WARN] Failed to parse recipe 'environmental:building/wood/cherry/cherry_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:cherry_post'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:milling/simpleores/mythril_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:milling/simpleores/mythril_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[20:59:47] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_sign[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[20:59:47] [WARN] Failed to parse recipe environmental:building/wood/cherry/stripped_cherry_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_cherry_post'
-[20:59:47] [WARN] Failed to parse recipe 'environmental:building/wood/cherry/stripped_cherry_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_cherry_post'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/stripped_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_log'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/stripped_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_log'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/iceandfire/sapphire_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:sapphire_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/iceandfire/sapphire_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:sapphire_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/geodes/blue_geode_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:blue_geode_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/geodes/blue_geode_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:blue_geode_ore'
-[20:59:47] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_trapdoor[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/iceandfire/amythest_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:amythest_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/iceandfire/amythest_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:amythest_ore'
-[20:59:47] [WARN] Failed to parse recipe 'environmental:building/wood/willow/willow_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:willow_post'
-[20:59:47] [WARN] Failed to parse recipe environmental:building/wood/willow/willow_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:willow_post'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/geodes/purple_geode_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:purple_geode_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/geodes/purple_geode_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:purple_geode_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/onyx_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:onyx_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/onyx_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:onyx_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/mythril_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/mythril_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/stripped_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_wood'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/stripped_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_wood'
-[20:59:47] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/mythril_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[20:59:47] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/mythril_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[20:59:48] [WARN] Failed to parse recipe morecreatestuffs:milling/wyrmroost/platinum_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
-[20:59:48] [WARN] Failed to parse recipe 'morecreatestuffs:milling/wyrmroost/platinum_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
-[20:59:48] [WARN] Failed to parse recipe 'morecreatestuffs:additionrecipes/wyrmroost/platinum_nugget_from_decompacting[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
-[20:59:48] [WARN] Failed to parse recipe morecreatestuffs:additionrecipes/wyrmroost/platinum_nugget_from_decompacting[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
-[20:59:50] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel","amount":27},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
-[20:59:52] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[20:59:52] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
+[21:27:08] [INFO] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[21:27:08] [INFO] SourceFile:41: Loaded 1/1 KubeJS server scripts in 0.006 s
+[21:27:08] [INFO] SourceFile:41: Loaded script server_scripts:script.js in 0.003 s
+[21:27:08] [INFO] Scripts loaded
+[21:27:08] [INFO] Scanning recipes...
+[21:27:10] [INFO] [blocks] Found 554 tags, added 0 objects, removed 0 objects
+[21:27:10] [INFO] [items] Found 1237 tags, added 0 objects, removed 0 objects
+[21:27:10] [INFO] [fluids] Found 24 tags, added 0 objects, removed 0 objects
+[21:27:10] [INFO] [entity_types] Found 43 tags, added 0 objects, removed 0 objects
+[21:27:10] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[21:27:10] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[21:27:10] [INFO] [tile_entity_types] Found 2 tags, added 0 objects, removed 0 objects
+[21:27:10] [WARN] Failed to parse recipe 'environmental:building/wood/wisteria/wisteria_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:wisteria_post'
+[21:27:10] [WARN] Failed to parse recipe environmental:building/wood/wisteria/wisteria_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:wisteria_post'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/platinum_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_block'
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/platinum_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_block'
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:additionrecipes/wyrmroost/platinum_ingot_from_compacting[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:additionrecipes/wyrmroost/platinum_ingot_from_compacting[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:milling/simpleores/adamantium_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:milling/simpleores/adamantium_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[21:27:10] [WARN] Failed to parse recipe 'environmental:building/wood/wisteria/stripped_wisteria_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_wisteria_post'
+[21:27:10] [WARN] Failed to parse recipe environmental:building/wood/wisteria/stripped_wisteria_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_wisteria_post'
+[21:27:10] [WARN] Failed to parse recipe environmental:building/wood/willow/stripped_willow_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_willow_post'
+[21:27:10] [WARN] Failed to parse recipe 'environmental:building/wood/willow/stripped_willow_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_willow_post'
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/cheese_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:cheese_ore'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/cheese_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:cheese_ore'
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/adamantium_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/adamantium_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[21:27:10] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_door[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/platinum_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/platinum_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
+[21:27:10] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_wood'
+[21:27:10] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_wood'
+[21:27:11] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_stem[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[21:27:11] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/oratchalcum_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_block'
+[21:27:11] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/oratchalcum_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_block'
+[21:27:11] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/geodes/red_geode_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:red_geode_ore'
+[21:27:11] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/geodes/red_geode_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:red_geode_ore'
+[21:27:11] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_hyphae[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[21:27:11] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_log'
+[21:27:11] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:pirat_log'
+[21:27:11] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/ratlantean_gem_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:ratlantean_gem_ore'
+[21:27:11] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/ratlantean_gem_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:ratlantean_gem_ore'
+[21:27:11] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/rats/oratchalcum_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
+[21:27:11] [WARN] Failed to parse recipe morecreatestuffs:crushing/rats/oratchalcum_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/adamantium_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/adamantium_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:milling/rats/oratchalcum_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:milling/rats/oratchalcum_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:oratchalcum_ore'
+[21:27:12] [WARN] Failed to parse recipe 'environmental:building/wood/cherry/cherry_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:cherry_post'
+[21:27:12] [WARN] Failed to parse recipe environmental:building/wood/cherry/cherry_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:cherry_post'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:milling/simpleores/mythril_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:milling/simpleores/mythril_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[21:27:12] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_sign[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[21:27:12] [WARN] Failed to parse recipe environmental:building/wood/cherry/stripped_cherry_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_cherry_post'
+[21:27:12] [WARN] Failed to parse recipe 'environmental:building/wood/cherry/stripped_cherry_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:stripped_cherry_post'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/stripped_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_log'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/stripped_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_log'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/iceandfire/sapphire_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:sapphire_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/iceandfire/sapphire_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:sapphire_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/geodes/blue_geode_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:blue_geode_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/geodes/blue_geode_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:blue_geode_ore'
+[21:27:12] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/glowshroom_trapdoor[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/iceandfire/amythest_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:amythest_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/iceandfire/amythest_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:amythest_ore'
+[21:27:12] [WARN] Failed to parse recipe 'environmental:building/wood/willow/willow_post[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:willow_post'
+[21:27:12] [WARN] Failed to parse recipe environmental:building/wood/willow/willow_post[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:willow_post'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/wyrmroost/geodes/purple_geode_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:purple_geode_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/wyrmroost/geodes/purple_geode_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:purple_geode_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/onyx_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:onyx_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/onyx_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:onyx_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/mythril_block[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/mythril_block[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:cutting/rats/pirat_wood/stripped_wood[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_wood'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:cutting/rats/pirat_wood/stripped_wood[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rats:stripped_pirat_wood'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:crushing/simpleores/mythril_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:crushing/simpleores/mythril_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[21:27:12] [WARN] Failed to parse recipe 'morecreatestuffs:milling/wyrmroost/platinum_ore[create:milling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
+[21:27:12] [WARN] Failed to parse recipe morecreatestuffs:milling/wyrmroost/platinum_ore[create:milling]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ore'
+[21:27:13] [WARN] Failed to parse recipe morecreatestuffs:additionrecipes/wyrmroost/platinum_nugget_from_decompacting[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
+[21:27:13] [WARN] Failed to parse recipe 'morecreatestuffs:additionrecipes/wyrmroost/platinum_nugget_from_decompacting[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wyrmroost:platinum_ingot'
+[21:27:15] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel","amount":27},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[21:27:16] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[21:27:16] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects

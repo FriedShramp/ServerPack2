@@ -1,5 +1,5 @@
-[20:46:56.558][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[20:46:56.988][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[21:22:29.186][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[21:22:29.772][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'ars_nouveau' at version '1.12.4'
 'bloodmagic' at version '1.16.4-3.1.0-15'
 'botania' at version '1.16.4-414'
@@ -8,10 +8,10 @@
 'immersivepetroleum' at version '3.2.0-3'
 'jeitweaker' at version '1.0.1.14'
 'transport' at version '3.5.1'
-[20:46:57.429][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[20:47:19.422][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[20:47:19.901][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[20:58:28.335][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[20:58:28.380][DONE][CLIENT][INFO] Finished loading Scripts!
-[20:59:52.824][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[20:59:52.858][DONE][CLIENT][INFO] Finished loading Scripts!
+[21:22:30.170][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[21:22:52.344][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[21:22:52.791][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[21:25:48.771][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[21:25:48.818][DONE][CLIENT][INFO] Finished loading Scripts!
+[21:27:17.461][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[21:27:17.496][DONE][CLIENT][INFO] Finished loading Scripts!

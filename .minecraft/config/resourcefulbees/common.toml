@@ -180,7 +180,7 @@
 	#
 	#Set this to false when you want to use our custom Biome Dictionary system. [true/false]
 	#At a later time we will look into either combining with the Forge system or making the Forge system data pack capable.
-	useForgeBiomeDictionaries = true
+	useForgeBiomeDictionaries = false
 	#
 	#Amount of time in ticks required to finish processing a honey bottle.
 	#Range: 0 ~ 2400
