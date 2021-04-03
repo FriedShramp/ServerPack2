@@ -1,0 +1,33 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#3c68b5",
+        "secondaryColor":"#3c68b5",
+        "honeycombColor":"#3c68b5",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "psi:psimetal"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "psi:psimetal",
+        "feedAmount": 4,
+        "parent1": "Psidust",
+        "parent2": "Gold"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

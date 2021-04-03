@@ -1,0 +1,33 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#cd56d6",
+        "secondaryColor":"#cd56d6",
+        "honeycombColor":"#cd56d6",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "psi:psidust"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "psi:psidust",
+        "feedAmount": 2,
+        "parent1": "Ender",
+        "parent2": "Redstone"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}
