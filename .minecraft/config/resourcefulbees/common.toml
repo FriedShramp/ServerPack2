@@ -180,7 +180,7 @@
 	#
 	#Set this to false when you want to use our custom Biome Dictionary system. [true/false]
 	#At a later time we will look into either combining with the Forge system or making the Forge system data pack capable.
-	useForgeBiomeDictionaries = false
+	useForgeBiomeDictionaries = true
 	#
 	#Amount of time in ticks required to finish processing a honey bottle.
 	#Range: 0 ~ 2400
@@ -199,7 +199,7 @@
 	#
 	#Set this to false when you want to overwrite the default bee files. [true/false]
 	#This should be run at least once for initial generation.
-	generateDefaults = false
+	generateDefaults = true
 
 ["Honey Generator Options"]
 	#
