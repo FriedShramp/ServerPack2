@@ -62,5 +62,9 @@
  "entity.resourcefulbees.psidust_bee": "Psidust Bee",
  "item.resourcefulbees.psidust_honeycomb": "Psidust Honeycomb",
  "item.resourcefulbees.psidust_bee_spawn_egg": "Psidust Bee Spawn Egg",
- "block.resourcefulbees.psidust_honeycomb_block": "Psidust Honeycomb Block"
+ "block.resourcefulbees.psidust_honeycomb_block": "Psidust Honeycomb Block",
+ "entity.resourcefulbees.steel_bee": "Steel Bee",
+ "item.resourcefulbees.steel_honeycomb": "Steel Honeycomb",
+ "item.resourcefulbees.steel_bee_spawn_egg": "Steel Bee Spawn Egg",
+ "block.resourcefulbees.steel_honeycomb_block": "Steel Honeycomb Block"
 }
