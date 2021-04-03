@@ -1,5 +1,5 @@
-[18:02:24.947][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[18:02:25.486][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[20:46:56.558][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[20:46:56.988][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'ars_nouveau' at version '1.12.4'
 'bloodmagic' at version '1.16.4-3.1.0-15'
 'botania' at version '1.16.4-414'
@@ -8,18 +8,10 @@
 'immersivepetroleum' at version '3.2.0-3'
 'jeitweaker' at version '1.0.1.14'
 'transport' at version '3.5.1'
-[18:02:25.953][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[18:02:43.778][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[18:02:44.301][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[18:07:37.687][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[18:07:37.731][DONE][CLIENT][INFO] Finished loading Scripts!
-[18:10:10.008][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[18:10:10.041][DONE][CLIENT][INFO] Finished loading Scripts!
-[19:22:27.137][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[19:22:27.167][DONE][CLIENT][INFO] Finished loading Scripts!
-[19:23:14.616][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[19:23:14.643][DONE][CLIENT][INFO] Finished loading Scripts!
-[19:25:10.118][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[19:25:10.146][DONE][CLIENT][INFO] Finished loading Scripts!
-[19:25:57.099][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[19:25:57.125][DONE][CLIENT][INFO] Finished loading Scripts!
+[20:46:57.429][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[20:47:19.422][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[20:47:19.901][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[20:58:28.335][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:58:28.380][DONE][CLIENT][INFO] Finished loading Scripts!
+[20:59:52.824][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:59:52.858][DONE][CLIENT][INFO] Finished loading Scripts!
