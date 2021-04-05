@@ -30,7 +30,9 @@
   },
   "BreedData": {
     "isBreedable": true,
-    "spawnWeight": 4
+    "spawnWeight": 4,
+    "parent1": "Farmer",
+    "parent2": "Obsidian"
   },
   "TraitData": {}
 }

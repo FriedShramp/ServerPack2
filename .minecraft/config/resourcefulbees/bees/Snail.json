@@ -1,0 +1,32 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#d6b856",
+        "secondaryColor":"#d6b856",
+        "honeycombColor":"#d6b856",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "autumnity:snail_slime"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":true,
+        "biomeWhitelist": "autumnity:maple_forest"
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:brown_mushroom",
+        "feedAmount": 4
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#fc0341",
+        "secondaryColor":"#fc0341",
+        "honeycombColor":"#fc0341",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "minecraft:potato",
+        "secondaryOutput": "minecraft:carrot",
+        "mainOutputWeight": 0.50,
+        "secondaryOutputWeight": 0.50
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:potato",
+        "feedAmount": 4,
+        "parent1": "Zombie",
+        "parent2": "Dirt"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

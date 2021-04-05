@@ -1,0 +1,33 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#3b3b3b",
+        "secondaryColor":"#3b3b3b",
+        "honeycombColor":"#3b3b3b",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "immersiveengineering:ingot_steel"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "immersiveengineering:ingot_steel",
+        "feedAmount": 4,
+        "parent1": "Iron",
+        "parent2": "Blaze"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}

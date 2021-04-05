@@ -1,0 +1,33 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": [],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#b30b0b",
+        "secondaryColor":"#b30b0b",
+        "honeycombColor":"#b30b0b",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "crossroads:ruby"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":false
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "crossroads:ruby",
+        "feedAmount": 4,
+        "parent1": "Emerald",
+        "parent2": "Redstone"
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}
