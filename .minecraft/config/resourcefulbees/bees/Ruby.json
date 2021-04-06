@@ -15,14 +15,14 @@
     },
     "CentrifugeData": {
         "hasCentrifugeOutput": true,
-        "mainOutput": "crossroads:ruby"
+        "mainOutput": "crossroads:gem_ruby"
     },
     "SpawnData": {
         "canSpawnInWorld":false
     },
     "BreedData": {
         "isBreedable": true,
-        "feedItem": "crossroads:ruby",
+        "feedItem": "crossroads:gem_ruby",
         "feedAmount": 4,
         "parent1": "Emerald",
         "parent2": "Redstone"
